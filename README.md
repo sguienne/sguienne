@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Seb
+- 👀 I’m interested in C#, blazor
+- 🌱 I’m currently learning Azure and Blazor
+- 💞️ I’m looking to collaborate on any open usefull project
+- 📫 How to reach me ...
